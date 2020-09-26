@@ -1,0 +1,129 @@
+h2 {
+	font-size: 15px;
+	color: #54bfe2;
+	/* margin-top: 10px; */
+	margin-bottom: 0px;
+	text-align: center;
+	/* padding: -50px; */
+}
+
+h4 {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	margin-left: 20px;
+	color: #54bfe2;
+}
+
+h5 {
+	font-size: 16px;
+	color: black;
+	text-align: left;
+}
+
+body{
+	background-color: rgb(194, 192, 192); 
+	background-size: cover;
+}
+
+p {
+	font-size: 16px;
+	padding: 20px;
+}
+
+.box-lat {
+	color: white; 
+	margin-left: 50px; 
+	padding: inherit; 
+	font-weight: bold; 
+	background: #54bfe2;
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+.dropdown-item{
+    color: #30615c; 
+}
+
+.box-1 {
+	margin-right: -20px;
+	font-weight: bold;
+}
+
+.visualization {
+	float: left;
+	width: 40%;
+	height: 40%;
+
+}
+
+.box {
+	background-color: white;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+@media (max-width: 480px) {
+
+	.navbar-expand-lg {
+		background-color: #48cfa4;
+	}
+
+	h5 {
+		font-size: 10px;
+		color: black;
+		text-align: left;
+	}
+
+	button{
+		margin-left: auto; 
+	}
+
+	button:focus {
+		outline: 1px dotted;
+	}
+
+	.navbar{
+		max-height: none; 
+		padding: inherit;
+	}
+
+	.navbar div{
+		margin: inherit; 
+		background-color: white;  
+	}
+
+	.navbar-brand{
+		padding: 10px; 
+	}
+
+	.row {
+		width: 200px;
+	}
+
+	h4 {
+		padding-top: 15px; 
+		padding-left: 4px;
+		color: #48cfa4;
+		font-size: 26px;
+		font-weight: bold;
+		font-family: Georgia, Times, "Times New Roman", serif;
+	}
+
+	img{
+		width: 100%;
+		height: 100%;
+	}
+
+	.visualization {
+		float: left;
+		width: 60%;
+		height: 60%;
+	}
+
+	p{
+		color: #414d4a;
+		font-size: 14px;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+
+}

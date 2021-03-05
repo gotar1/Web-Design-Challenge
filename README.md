@@ -23,7 +23,8 @@ The website consist of 8 pages total, including:
   * Links to each visualizations page with a sidebar containing preview images of each plot. 
 * A [landing page](https://gotar1.github.io/Web-Design-Challenge/WebVisualizations/landing.html) containing:
   * An explanation of the project.
-  * Links to each visualizations page. And a sidebar containing preview images of each plot, and clicking an image  should take the user to that visualization.
+  * Links to each visualizations page. Clicking "Home" will take you to Index Page. 
+  * Sidebar containing preview images of each plot, and clicking an image  should take the user to that visualization page.
 * Four [visualization pages](https://gotar1.github.io/Web-Design-Challenge/WebVisualizations/Visualizations/max_temp.html), each with:
   * A descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
@@ -40,7 +41,7 @@ The website consist of 8 pages total, including:
 
 Each page at the top have a navigation menu that:
 
-* Has a button named Latitude on the top left which users can click to return to the landing page.
+* Has a button named "Latitude" on the top left which users can click to return to the landing page.
 * Contains a dropdown menu named "Plots" that provides a link to each individual visualization page.
 * Provides two more text links: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 * Is responsive (using media queries).

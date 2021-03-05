@@ -18,7 +18,7 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 The website consist of 8 pages total, including:
 
-* A [Index Page](https://gotar1.github.io/Web-Design-Challenge/index.html) containing:
+* An [Index Page](https://gotar1.github.io/Web-Design-Challenge/index.html) containing:
   * An introduction and brief description of the project.
   * Links to each visualizations page with a sidebar containing preview images of each plot. 
 * A [landing page](https://gotar1.github.io/Web-Design-Challenge/WebVisualizations/landing.html) containing:
@@ -36,11 +36,11 @@ The website consist of 8 pages total, including:
 * A ["Data" page](https://gotar1.github.io/Web-Design-Challenge/WebVisualizations/data.html) that:
   * Displays a responsive table containing the data used in the visualizations.
     * The table is a bootstrap table component.
-    * The table was greated by converting the `.csv` file to HTML.
+    * The table was created by converting the `.csv` file to HTML.
 
-Each website, at the top of every page, have a navigation menu that:
+Each page at the top have a navigation menu that:
 
-* Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
+* Has a button on the top left of the which allows users to return to the landing page.
 * Contains a dropdown menu named "Plots" that provides a link to each individual visualization page.
 * Provides two more text links: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 * Is responsive (using media queries).

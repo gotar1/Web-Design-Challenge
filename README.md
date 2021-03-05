@@ -4,13 +4,13 @@
 
 ## Background
 
-Data is more powerful when shared with others! We are going to create a dashboard showing off some analysis we've done in a prior project. Our webpage will be hosted in GitHub pages and be accessed [Here](https://gotar1.github.io/Web-Design-Challenge/index.html).
+Data is more powerful when shared with others! We are going to create a dashboard showing off some analysis we've done in a prior project. Our webpage will be hosted in GitHub pages and can be accessed [Here](https://gotar1.github.io/Web-Design-Challenge/index.html).
 
 ![Introduction](/WebVisualizations/Images/index.png) 
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-We'll be creating a visualization dashboard website using visualizations we've created in a past project. Specifically, we'll be plotting [weather data](WebVisualizations/Resources/cities.csv).
+We'll be creating a visualization dashboard website using plots we've created in a past project. Specifically, we'll be plotting [weather data](WebVisualizations/Resources/cities.csv) for over 500 cities worldwide.
 
 In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 

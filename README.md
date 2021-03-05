@@ -40,7 +40,7 @@ The website consist of 8 pages total, including:
 
 Each page at the top have a navigation menu that:
 
-* Has a button on the top left of the which allows users to return to the landing page.
+* Has a button named Latitude on the top left which users can click to return to the landing page.
 * Contains a dropdown menu named "Plots" that provides a link to each individual visualization page.
 * Provides two more text links: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 * Is responsive (using media queries).
